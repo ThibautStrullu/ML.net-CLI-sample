@@ -1,0 +1,15 @@
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.deps.json
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.runtimeconfig.json
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.runtimeconfig.dev.json
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.dll
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.pdb
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.Model.dll
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.Model.pdb
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.csprojAssemblyReference.cache
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.AssemblyInfoInputs.cache
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.AssemblyInfo.cs
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.csproj.CopyComplete
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.dll
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.pdb

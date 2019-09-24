@@ -1,0 +1,10 @@
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.Model\bin\Debug\netcoreapp2.1\SampleBinaryClassification.Model.deps.json
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.Model\bin\Debug\netcoreapp2.1\SampleBinaryClassification.Model.dll
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.Model\bin\Debug\netcoreapp2.1\SampleBinaryClassification.Model.pdb
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.Model\obj\Debug\netcoreapp2.1\SampleBinaryClassification.Model.csprojAssemblyReference.cache
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.Model\obj\Debug\netcoreapp2.1\SampleBinaryClassification.Model.csproj.CoreCompileInputs.cache
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.Model\obj\Debug\netcoreapp2.1\SampleBinaryClassification.Model.AssemblyInfoInputs.cache
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.Model\obj\Debug\netcoreapp2.1\SampleBinaryClassification.Model.AssemblyInfo.cs
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.Model\obj\Debug\netcoreapp2.1\SampleBinaryClassification.Model.dll
+D:\IA\Cli-test\SampleBinaryClassification\SampleBinaryClassification.Model\obj\Debug\netcoreapp2.1\SampleBinaryClassification.Model.pdb
